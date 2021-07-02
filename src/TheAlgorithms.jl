@@ -100,8 +100,8 @@ export jump_search
 export linear_search
 
 # Exports: sorts
-export BubbleSort!, InsertionSort!, SelectionSort!
-export MergeSort!, QuickSort!
+export BubbleSort!,InsertionSort!,SelectionSort!
+export MergeSort!,QuickSort!
 
 # Exports: statistics
 export OLSbeta # TODO: make the name lowercase if possible
